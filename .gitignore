@@ -12,3 +12,5 @@ yarn-error.log
 .husky
 firebase.json
 .firebaserc
+yarn.lock
+.firebase
